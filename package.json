@@ -22,12 +22,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/binsentsu/am43-ctrl"
+    "url": "git://github.com/delphir-com/am43-ctrl"
   },
   "bugs": {
-    "url": "https://github.com/binsentsu/am43-ctrl"
+    "url": "https://github.com/delphir-com/am43-ctrl"
   },
-  "homepage": "https://github.com/binsentsu/am43-ctrl#readme",
+  "homepage": "https://github.com/delphir-com/am43-ctrl#readme",
   "engines": {
     "node": ">=7.0 <10.0"
   },
