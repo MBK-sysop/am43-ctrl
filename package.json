@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/delphir-com/am43-ctrl#readme",
   "engines": {
-    "node": ">=7.0 <10.0"
+    "node": ">=7.0 <10.16"
   },
   "dependencies": {
     "debug": "^4.0.1",
