@@ -9,11 +9,6 @@ Retrieve the MacAddress of the device (for example by using nRF Connect app for 
 # Installation
 Run `npm install -g https://github.com/binsentsu/am43-ctrl`
 
-And to solve bluetooth-hci-socket error:
-
-`cd /usr/local/lib/node_modules/am43-ctrl/`
-`npm install bluetooth-hci-socket@npm:@abandonware/bluetooth-hci-socket`
-
 # Usage
 `am43ctrl` by itself will print usage information
 
